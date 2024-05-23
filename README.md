@@ -5,9 +5,10 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" />
     </a>
     <a href="mailto:dalton.johnchristian.c@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Email-blue?style=social&logo=yahoo" alt="yahoo">
+        <img align="center" src="https://img.shields.io/badge/Gmail-blue?style=social&logo=gmail" alt="gmail">
     </a>
 </p>
+
 
 
 ## Hi! I'm John Christiana C. Dalton
