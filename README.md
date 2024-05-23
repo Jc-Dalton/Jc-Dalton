@@ -9,6 +9,8 @@
 
   Data-driven problem solver with a thriving passion for data analysis and robust skills in Python, SQL, and spreadsheets. Experienced in data manipulation, analysis, and visualization, backed by completion of the Google Data Analytics course. Eager to leverage my expertise for creating data-driven solutions. </br>
 
+<br/>
+<br/>
 
 👨‍🎓 Studied Bachelor of Science in Information System minor in Service Management Program at [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
 Currently, I'm diving into Data Analytics 📊👨‍💻 and honing my Data Visualization expertise 📈👀</br>
