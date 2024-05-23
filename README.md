@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-👨‍🎓 Studied Bachelor of Science in Information System minor in Service Management Program at [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
+👨‍🎓 Studied BS in Information System minor in Service Management Program at [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
 Currently, I'm diving into Data Analytics 📊👨‍💻 and honing my Data Visualization expertise 📈👀</br>
 
 
