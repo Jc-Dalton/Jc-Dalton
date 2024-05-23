@@ -9,6 +9,9 @@
     </a>
 </p>
 
+**Note:** To set up your email client to use my email address as the default sender, please refer to your email client's settings or documentation.
+
+
 
 
 ## Hi! I'm John Christiana C. Dalton
