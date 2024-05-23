@@ -17,6 +17,9 @@ Data-driven problem solver with a thriving passion for data analysis and robust 
 
 
 Aspring Data Analyst sharing my journey and learning in tech<br/>
-Studied Bachelor of Science in Information Systemat [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
+Studied Bachelor of Science in Information System minor in Service Management Program at [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
 Currently learning about Data Analytics and Data vizualization
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnChristianDalton&theme=radical_icons=true)
 
