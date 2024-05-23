@@ -4,11 +4,11 @@
     <a href="https://www.linkedin.com/in/john-christian-dalton-21b788281/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" />
     </a>
-   
     <a href="mailto:dalton.johnchristian.c@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Email-blue?style=social&logo=yahoo" alt="yahoo">
     </a>
 </p>
+
 
 ## Hi! I'm John Christiana C. Dalton
 
