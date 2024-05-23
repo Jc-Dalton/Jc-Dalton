@@ -17,6 +17,6 @@ Data-driven problem solver with a thriving passion for data analysis and robust 
 
 
 Aspring Data Analyst sharing my journey and learning in tech<br/>
-Studied Bachelor of Science in Information System(https://chmsu.edu.ph/) at [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
+Studied Bachelor of Science in Information Systemat [Carlos Hilado Memorial State University](https://chmsu.edu.ph/)<br/>
 Currently learning about Data Analytics and Data vizualization
 
